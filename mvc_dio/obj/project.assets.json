@@ -7153,11 +7153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programing\\.NET\\mvc-dio\\mvc-dio.csproj",
+      "projectUniqueName": "D:\\Programing\\.NET\\webapp dio\\mvc_dio\\mvc-dio.csproj",
       "projectName": "mvc-dio",
-      "projectPath": "D:\\Programing\\.NET\\mvc-dio\\mvc-dio.csproj",
+      "projectPath": "D:\\Programing\\.NET\\webapp dio\\mvc_dio\\mvc-dio.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "D:\\Programing\\.NET\\mvc-dio\\obj\\",
+      "outputPath": "D:\\Programing\\.NET\\webapp dio\\mvc_dio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
